@@ -51,10 +51,10 @@ body, html {
         font-family: 'Caveat', cursive;
       }
   
-  form {
+  /* form {
     padding: 15px;
     
-  }
+  } */
   /* About page h2 (index.html) */
   .about-img {
     margin: 10px;
@@ -74,11 +74,13 @@ body, html {
    }
   
   /* Contact Page (contact.html) */
-  .button {
+  /* .button {
     margin-top: 10px;
+  } */
+  
+  .list-group-item {
+      background-color: transparent;
   }
-  
-  
   
   /* Portfolio Page (portfolio.html) */
   
@@ -96,7 +98,9 @@ body, html {
     text-align: center;
   }
   
-  
+  .btn {
+      margin: 4px;
+  }
   
   @media (min-width: 768px;) {
     
