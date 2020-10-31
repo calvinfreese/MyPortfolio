@@ -103,51 +103,35 @@ body, html {
     border-radius: 4px;
   }
 
-  .spacings {
-    width: 100%;
-    padding: 10px;
-    margin: 10px;
-    background: linear-gradient(113deg, #FFE96B, #E74343);
-    border-bottom: 2px dashed black;
-    border-radius: 15px;
-    
-  }
-  /* Footer */
-  .sticky-footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background: #343a40;
-    color: white;
-    text-align: center;
-  }
-  
   .btn {
-      margin: 6px;
+    margin: 6px;
+    max-height: 30;
+    max-width: fit-content;
+}
 
-      max-height: 30;
-      max-width: fit-content;
-  }
 
-  /* .col-lg {
-    background-color: black;
-  } */
-  
   .push {
     bottom: 0;
     width: 100%;
     margin-bottom: 70px;
   }
+
+/* Footer */
+.sticky-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: #343a40;
+  color: white;
+  text-align: center;
+}
+
+  
   
   @media (min-width: 768px) {
     .page-box {
       margin: 0 auto;
       height: 100%;
-    }
-
-    .portfolio-img {
-      min-width: 75px;
-      min-height: 25px;
     }
   }
