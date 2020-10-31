@@ -4,12 +4,12 @@
 
 Bootstrap based layout designed to house my bio, portfolio, and contact information.
 Portfolio includes the follow pages:
-    * About Me
-        * Contains bio and a photo of myself.
-    * Contact Me
-        * Contains phone number, email address, resume, and links to GitHub and LinkedIn.
-    * Portfolio
-        * Contains titles, links to live sites and repositories, and screenshots of the projects I have worked on.
+ * About Me
+   * Contains bio and a photo of myself.
+ * Contact Me
+   * Contains phone number, email address, resume, and links to GitHub and LinkedIn.
+ * Portfolio
+   * Contains titles, links to live sites and repositories, and screenshots of the projects I have worked on.
     
 * [Live Site](https://whackingmufn.github.io/MyPortfolio/)
 
